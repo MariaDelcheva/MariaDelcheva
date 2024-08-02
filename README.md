@@ -2,7 +2,7 @@
 
 - 🎓 **Education**
   
-**Software University** (01.2023 - 2024) - QA Engineering (Manual and Automated)
+**Software University** (01.2023 - 08.2024) - QA Engineering (Manual and Automated)
 
 U**niversity of Architecture, Construction and Geodesy** (2015 -2017) - Master's degree - Cadastre and property management
 
